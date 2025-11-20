@@ -1,0 +1,23 @@
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2016/06/02/02/33/triangles-1430105_1280.png);
+}
+.container {
+    margin: 0px auto;
+    padding: 5px;
+    font-family: 'Walter Turncoat', cursive;
+    color: darkmagenta;
+}
+.col-sm-6 {
+    padding: 3px;
+    border-radius: 11px;
+    margin: 5px auto;
+}
+.header {
+    text-align: center;
+    margin: 0px auto;
+    padding: 11px;
+    color: darkmagenta;
+    border-radius: 11px;
+    width: 750px;
+    font-family: 'Walter Turncoat', cursive;
+}
